@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "FarfetchBasisReg";
+  src: url("FarfetchBasis-Regular.woff");
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "FarfetchBasisBold";
+  src: url("FarfetchBasis-Bold.woff");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Nimbus";
+  src: url("NimbusSanExtD-Bol.woff");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "NimbusRoman";
+  src: url("NimbusRomD-Reg.woff");
+  font-weight: 100;
+  font-style: normal;
+}
